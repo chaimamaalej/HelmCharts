@@ -1,0 +1,47 @@
+apiVersion: v1
+entries:
+  alert-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-04T12:31:23.6664378+01:00"
+    description: A Helm chart for Kubernetes
+    digest: e29bfe90bc059977af3de8aacfc6c86e013cc18ef334f166fce5912a9a0a0363
+    name: alert-chart
+    type: application
+    urls:
+    - https://github.com/chaimamaalej/HelmCharts.git/alert-chart-0.1.0.tgz
+    version: 0.1.0
+  kafka-deployment-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-04T12:31:23.6664378+01:00"
+    description: A Helm chart for Kubernetes
+    digest: adaae51e4c73416bad49d72859febdf074b7b84e2066fb14c01baf02af521103
+    name: kafka-deployment-chart
+    type: application
+    urls:
+    - https://github.com/chaimamaalej/HelmCharts.git/kafka-deployment-chart-0.1.0.tgz
+    version: 0.1.0
+  main-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-04T12:31:23.6664378+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 9501f43044072194a4d4ed0dc716d35ea3cb9a5dd2ff1ea36d53277db0dc1adb
+    name: main-app
+    type: application
+    urls:
+    - https://github.com/chaimamaalej/HelmCharts.git/main-app-0.1.0.tgz
+    version: 0.1.0
+  my-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-04T12:31:23.667945+01:00"
+    description: A Helm chart for Kubernetes
+    digest: bbb6b982fc4f50e7300c8ddf43849ff59d1f1352f0230c0c95d3f635ce92c392
+    name: my-chart
+    type: application
+    urls:
+    - https://github.com/chaimamaalej/HelmCharts.git/my-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-04T12:31:23.6633583+01:00"
